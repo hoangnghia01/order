@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hoangnghia01/order.git/static/css/main.9e861346.css",
-    "main.js": "/hoangnghia01/order.git/static/js/main.a3f9082c.js",
-    "static/media/hello.jpg": "/hoangnghia01/order.git/static/media/hello.1c054d8aeb9fd6239803.jpg",
-    "static/media/Che-Thai.jpeg": "/hoangnghia01/order.git/static/media/Che-Thai.421e912d5288f2c24399.jpeg",
-    "static/media/nuoc-ep2.jpeg": "/hoangnghia01/order.git/static/media/nuoc-ep2.de4475456d464b9ed429.jpeg",
-    "static/media/nuoc_ep1.jpeg": "/hoangnghia01/order.git/static/media/nuoc_ep1.e750accbc3da79e9601d.jpeg",
-    "static/media/tra-sua2.jpeg": "/hoangnghia01/order.git/static/media/tra-sua2.1e9853540a7e56d3a068.jpeg",
-    "static/media/sinh-to2.jpeg": "/hoangnghia01/order.git/static/media/sinh-to2.0ce4b31b73a7699d71e6.jpeg",
-    "static/media/che-khuc-bach.jpeg": "/hoangnghia01/order.git/static/media/che-khuc-bach.254224d41704e89b8e96.jpeg",
-    "static/media/sinh-to1.jpeg": "/hoangnghia01/order.git/static/media/sinh-to1.797063e2c238f92d75b8.jpeg",
-    "static/media/tra-sua.jpeg": "/hoangnghia01/order.git/static/media/tra-sua.8530c804774cc64b9150.jpeg",
-    "index.html": "/hoangnghia01/order.git/index.html",
-    "main.9e861346.css.map": "/hoangnghia01/order.git/static/css/main.9e861346.css.map",
-    "main.a3f9082c.js.map": "/hoangnghia01/order.git/static/js/main.a3f9082c.js.map"
+    "main.css": "/order/static/css/main.9e861346.css",
+    "main.js": "/order/static/js/main.9f3951bd.js",
+    "static/media/hello.jpg": "/order/static/media/hello.1c054d8aeb9fd6239803.jpg",
+    "static/media/Che-Thai.jpeg": "/order/static/media/Che-Thai.421e912d5288f2c24399.jpeg",
+    "static/media/nuoc-ep2.jpeg": "/order/static/media/nuoc-ep2.de4475456d464b9ed429.jpeg",
+    "static/media/nuoc_ep1.jpeg": "/order/static/media/nuoc_ep1.e750accbc3da79e9601d.jpeg",
+    "static/media/tra-sua2.jpeg": "/order/static/media/tra-sua2.1e9853540a7e56d3a068.jpeg",
+    "static/media/sinh-to2.jpeg": "/order/static/media/sinh-to2.0ce4b31b73a7699d71e6.jpeg",
+    "static/media/che-khuc-bach.jpeg": "/order/static/media/che-khuc-bach.254224d41704e89b8e96.jpeg",
+    "static/media/sinh-to1.jpeg": "/order/static/media/sinh-to1.797063e2c238f92d75b8.jpeg",
+    "static/media/tra-sua.jpeg": "/order/static/media/tra-sua.8530c804774cc64b9150.jpeg",
+    "index.html": "/order/index.html",
+    "main.9e861346.css.map": "/order/static/css/main.9e861346.css.map",
+    "main.9f3951bd.js.map": "/order/static/js/main.9f3951bd.js.map"
   },
   "entrypoints": [
     "static/css/main.9e861346.css",
-    "static/js/main.a3f9082c.js"
+    "static/js/main.9f3951bd.js"
   ]
 }
